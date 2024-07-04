@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about [Programming], and I enjoy wo
 - Programming Languages: [C#/PHP/Python]
 - Frameworks & Libraries: [Bootstrap]
 - Databases: [PhpMyAdmin/API]
-- 
+
 ## 🌱 My worken on Projects
 
 - [Project 1](https://github.com/ThijsHer/FiveNightsAtROC)
