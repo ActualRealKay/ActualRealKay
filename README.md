@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about [Programming], and I enjoy wo
 - Frameworks & Libraries: [Bootstrap]
 - Databases: [PhpMyAdmin/API]
 
-## 🌱 My working on Projects
+## 🌱 My projects I have worked on
 
 - [Project 1](https://github.com/ThijsHer/FiveNightsAtROC)
 - [Project 2](https://github.com/KaiFr2/2D-space-tank-shooter-game)
