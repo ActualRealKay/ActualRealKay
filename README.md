@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm passionate about [Programming], and I enjoy wo
 
 ## 🌱 My projects I have worked on
 
-- [Project 1](https://github.com/ThijsHer/FiveNightsAtROC)
-- [Project 2](https://github.com/KaiFr2/2D-space-tank-shooter-game)
-- [Project 3](https://github.com/KaiFr2/Turnenwebsite)
+- [Five Nights At Roc Midden Nederland](https://github.com/ThijsHer/FiveNightsAtROC)
+- [Space Shooter](https://github.com/KaiFr2/2D-space-tank-shooter-game)
+- [School Project](https://github.com/KaiFr2/Turnenwebsite)
 
 ## 📫 Contact Me
 
