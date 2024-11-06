@@ -18,8 +18,5 @@ Welcome to my GitHub profile! I'm passionate about [Programming], and I enjoy wo
 
 - Email: [dogulolxd@gmail.com]
 
-## 🚀 Fun Fact
-
-[I own a BMW M2]
 
 Thanks for visiting! Feel free to explore my projects and reach out if you have any questions or suggestions.
