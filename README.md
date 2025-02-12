@@ -1,6 +1,6 @@
 # Hello, I'm [Kay]! 👋
 
-Right now I'am a learning student so I basically code once in a while and also do coding stuff for school so most of the time you wont see my repo's
+<h5> Right now I'am a learning student so I basically code once in a while and also do coding stuff for school so most of the time you wont see my repo's </h5>
 
 Welcome to my GitHub profile! I'm passionate about [Programming], and I enjoy working on [Games/Applications/Websites]. Here you'll find some of my projects and contributions.
 
