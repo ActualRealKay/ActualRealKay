@@ -1,4 +1,4 @@
-# Hello, I'm [Kaya]! 👋
+# Hello, I'm [Kay]! 👋
 
 Welcome to my GitHub profile! I'm passionate about [Programming], and I enjoy working on [Games/Applications/Websites]. Here you'll find some of my projects and contributions.
 
