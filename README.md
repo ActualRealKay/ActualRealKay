@@ -10,9 +10,8 @@ Welcome to my GitHub profile! I'm passionate about [Programming], and I enjoy wo
 - Frameworks & Libraries: [Bootstrap]
 - Databases: [PhpMyAdmin/API]
 
-## 🌱 My projects I have worked on that im proud of
+## 🌱 Simple Game I made
 
-- [Five Nights At Roc Midden Nederland](https://github.com/ThijsHer/FiveNightsAtROC)
 - [Space Shooter](https://github.com/KaiFr2/2D-space-tank-shooter-game)
 
 ## 📫 Contact Me
