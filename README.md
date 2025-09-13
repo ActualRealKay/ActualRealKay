@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm passionate about [Programming], and I enjoy wo
 ## 🔧 Technologies & Tools
 
 - Programming Languages: [C#/PHP/Python/JAVA/Javascript]
-- Frameworks & Libraries: [Bootstrap/Jaklarta]
-- Databases: [PhpMyAdmin/API/Postgresql]
+- Frameworks & Libraries: [Bootstrap/Jaklarta/Lit]
+- Databases: [PhpMyAdmin/API/Postgresql/JAVA DAO]
 
 ## 🌱 Simple Game I made in unity for fun
 
