@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about [Programming], and I enjoy wo
 
 ## 🌱 Simple Game I made in unity for fun
 
-- [Space Shooter](https://github.com/KaiFr2/2D-space-tank-shooter-game)
+- [Space Shooter](https://github.com/KaiFr2/2D-space-tank-shooter-game) (Broken because of windows 11)
 
 ## 📫 Contact Me
 
