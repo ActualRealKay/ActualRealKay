@@ -9,10 +9,6 @@ Welcome to my GitHub profile! I'm passionate about [Programming], and I enjoy wo
 - Programming Languages: [C#/PHP/Python/JAVA/Javascript]
 - Frameworks & Libraries: [Bootstrap/Jaklarta/Lit]
 - Databases: [PhpMyAdmin/API/Postgresql/JAVA DAO]
-
-## 🌱 Simple Game I made in unity for fun
-
-- [Space Shooter](https://github.com/KaiFr2/2D-space-tank-shooter-game)
   
 ## 📫 Contact Me
 
