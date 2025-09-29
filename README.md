@@ -1,18 +1,49 @@
-# Hello, I'm [Kay]! 👋
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hello%20I'm%20Kay!%20&fontSize=40&animation=twinkling" />
+</p>
 
-<h5> Right now I'am a learning student so I basically code once in a while and also do coding stuff for school so most of the time you wont see my repo's </h5>
+---
 
-Welcome to my GitHub profile! I'm passionate about [Programming], and I enjoy working on [Games/Applications/Websites]. Here you'll see some of my repo's or projects I made.
+## 👨‍💻 About Me
+I'm a **learning student developer** who codes once in a while for fun 🎮, school 📚, or just to explore new tech.  
+Most of my repos are experiments, small projects, or stuff I’m building while learning 🚀.  
 
-## 🔧 Technologies & Tools
+💡 I love working on:
+- 🎲 Games  
+- 🌐 Websites  
+- 🛠️ Applications  
 
-- Programming Languages: [C#/PHP/Python/JAVA/Javascript]
-- Frameworks & Libraries: [Bootstrap/Jaklarta/Lit]
-- Databases: [PhpMyAdmin/API/Postgresql/JAVA DAO]
-  
-## 📫 Contact Me
+---
 
-- Email: [dogulolxd@gmail.com]
+## 🔧 Tech Stack  
 
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=cs,php,python,java,javascript" /><br/>
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=bootstrap,lit" /><br/>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+</p>
 
-Thanks for visiting! Feel free to explore my repositories and reach out if you have any questions or suggestions.
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ActualRealKay&show_icons=true&theme=radical" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ActualRealKay&layout=compact&theme=radical" alt="Top Langs" height="150"/>
+</p>
+
+---
+
+## 📫 Contact Me  
+
+- ✉️ Email: **dogulolxd@gmail.com**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer" />
+</p>
