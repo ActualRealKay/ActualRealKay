@@ -1,30 +1,31 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hello%20I'm%20Kay!%20&fontSize=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20I'm%20Kayzer&fontSize=40&animation=twinkling" />
 </p>
-
----
-
-## 👨‍💻 About Me
-I'm a **learning student developer** who codes once in a while for fun 🎮, school 📚, or just to explore new tech.  
-Most of my repos are experiments, small projects, or stuff I’m building while learning 🚀.  
-
-💡 I love working on:
-- 🎲 Games  
-- 🌐 Websites  
-- 🛠️ Applications  
 
 ---
 
 ## 🔧 Tech Stack  
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=cs,php,python,java,javascript" /><br/>
-  <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=bootstrap,lit" /><br/>
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+### **Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,php,python,java,javascript" height="30"/>
+</p>
+
+### **Frameworks & Libraries**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bootstrap,lit" height="30"/>
+</p>
+
+### **Tools & Platforms**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,github,git,wordpress" height="30"/>
+  <img src="https://skillicons.dev/icons?i=minecraft" height="30"/>
+</p>
+
+### **Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" height="30"/>
 </p>
 
 ---
@@ -39,10 +40,14 @@ Most of my repos are experiments, small projects, or stuff I’m building while 
 
 ## 📫 Contact Me  
 
-- ✉️ Email: **dogulolxd@gmail.com**
+<p align="center">
+  <a href="mailto:dogulolxd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dogulolxd@gmail.com-blue?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
